@@ -1,0 +1,20 @@
+[
+    {
+        "bed_id": "B101",
+        "ward": "General",
+        "room": "R101",
+        "gender_rule": "any",
+        "isolation_type": "none",
+        "status": "available",
+        "status_since": "2026-11-26T08:24:25.909407"
+    },
+    {
+        "bed_id": "B102",
+        "ward": "ICU",
+        "room": "R102",
+        "gender_rule": "any",
+        "isolation_type": "none",
+        "status": "available",
+        "status_since": "2026-11-26T08:24:25.909407"
+    }
+]
